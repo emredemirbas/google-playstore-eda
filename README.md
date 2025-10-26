@@ -71,17 +71,6 @@ The full written report (`EDA_Report_GooglePlayStore.pdf`) provides:
 
 ---
 
-## Technologies Used
-
-- **Python 3.10+**
-  - pandas, numpy, seaborn, matplotlib  
-- **LaTeX (Overleaf)**
-  - For structured report writing and figure inclusion  
-- **Google Colab / Jupyter Notebook**
-  - Used during exploratory phase before exporting to `.py`
-
----
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE)  
