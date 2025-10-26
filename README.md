@@ -1,12 +1,5 @@
 # Exploratory Data Analysis on Google Play Store Dataset
 
-**Author:** Emre Demirbaş  
-**Course:** CENG463 — Machine Learning  
-**Institution:** Ankara Yıldırım Beyazıt University  
-**Date:** 2025  
-
----
-
 ## Overview
 
 This repository contains a complete Exploratory Data Analysis (EDA) project based on the Google Play Store dataset.  
