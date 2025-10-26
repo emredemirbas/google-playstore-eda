@@ -21,6 +21,7 @@ The project includes:
 ---
 
 ## Repository Structure
+```
 ├── eda_project.py # Final Python script version of the EDA notebook
 ├── EDA_Report_GooglePlayStore.tex # Full LaTeX report with figures and analysis
 ├── EDA_Report_GooglePlayStore.pdf # Compiled PDF report
@@ -30,7 +31,7 @@ The project includes:
 │ ├── ...
 │ └── fig17_installs_by_android_version.png
 └── LICENSE # MIT License
-
+```
 
 ---
 
@@ -93,7 +94,7 @@ You can also edit or compile the LaTeX version (`EDA_Report_GooglePlayStore.tex`
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE) © 2025 Emre Demirbaş.  
+This project is licensed under the [MIT License](LICENSE)  
 You are free to use, modify, and distribute the material with proper attribution.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
