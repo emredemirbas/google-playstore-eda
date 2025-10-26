@@ -7,7 +7,6 @@ The goal is to explore relationships between app features such as category, rati
 
 The project includes:
 - Clean and well-documented Python code (`eda_project.py`)
-- A detailed LaTeX report with integrated figures (`EDA_Report_GooglePlayStore.tex`)
 - A compiled PDF version of the report (`EDA_Report_GooglePlayStore.pdf`)
 - Visualizations generated during analysis (in the `figures/` directory)
 
