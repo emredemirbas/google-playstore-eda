@@ -70,8 +70,6 @@ The full written report (`EDA_Report_GooglePlayStore.pdf`) provides:
 - Captions and explanations for each figure  
 - Clean formatting for academic or professional submission  
 
-You can also edit or compile the LaTeX version (`EDA_Report_GooglePlayStore.tex`) in Overleaf.
-
 ---
 
 ## Technologies Used
