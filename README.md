@@ -6,7 +6,7 @@ This repository contains a complete Exploratory Data Analysis (EDA) project base
 The goal is to explore relationships between app features such as category, rating, price, content rating, and popularity, and to derive meaningful insights into app market trends.
 
 The project includes:
-- Clean and well-documented Python code (`eda_project.py`)
+- Clean and well-documented Jupyter Notebook (`google_play_store_eda.ipynb`)
 - A compiled PDF version of the report (`EDA_Report_GooglePlayStore.pdf`)
 - Visualizations generated during analysis (in the `figures/` directory)
 
@@ -14,8 +14,7 @@ The project includes:
 
 ## Repository Structure
 ```
-├── eda_project.py # Final Python script version of the EDA notebook
-├── EDA_Report_GooglePlayStore.tex # Full LaTeX report with figures and analysis
+├── google_play_store_eda.ipynb # Final version of the EDA notebook
 ├── EDA_Report_GooglePlayStore.pdf # Compiled PDF report
 ├── figures/ # Folder containing all visualizations
 │ ├── fig1_ratings_distribution.png
